@@ -1,5 +1,3 @@
-FEEL FREE TO CONNECT : https://www.linkedin.com/in/dhackmt/
-
 <img width="1278" height="478" alt="image" src="https://github.com/user-attachments/assets/68b3ec6c-b6ed-4bbf-b4a2-575de8652645" />
 
 
