@@ -1,8 +1,5 @@
 <img width="1278" height="478" alt="image" src="https://github.com/user-attachments/assets/68b3ec6c-b6ed-4bbf-b4a2-575de8652645" />
 
-
-# In this video we will learn NeMo Guardrails
-
 > **One-line summary:** Guardrails are a safety + control layer that sits between the user and the LLM — they decide what the LLM is allowed to see, say, and do.
 
 ---
